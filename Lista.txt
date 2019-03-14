@@ -1,4 +1,4 @@
-============= EJEMPLO =============
+﻿============= EJEMPLO =============
 xxxxxx - Visca, Ramiro - ramiroviszan - [opcional = ramiroviszan@gmail.com]
 ===================================
 
@@ -21,7 +21,7 @@ xxxxxx - Visca, Ramiro - ramiroviszan - [opcional = ramiroviszan@gmail.com]
 193737 - Mosquera  Carreras,  Florencia  Paul - 
 201375 - Pence  Ceriani,  Noela   - 
 214108 - Pintos  Sugliano,  Bruno  Eduard - 
-217428 - Pirez  Mascheroni,  Facundo  - 
+217428 - Pirez  Mascheroni,  Facundo  - facupm - (facupm@hotmail.com)
 220346 - Prando  Martínez,  Joaquín   - 
 200427 - Rezk  Bello,  María  Belén   - 
 193767 - Rezniotopoulos  González,  Christian - 
